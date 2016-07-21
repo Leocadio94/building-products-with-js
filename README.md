@@ -6,4 +6,4 @@ This repository contains code and related materials for [Building products with 
 
 # License
 
-[MIT](https://opensource.org/licenses/mit-license)
+[MIT](https://opensource.org/licenses/MIT)
