@@ -26,16 +26,19 @@
     "babel-eslint": "^6.1.2",
     "babel-preset-es2015-node": "^6.1.0",
     "babel-preset-stage-0": "^6.5.0",
-    "eslint": "^3.1.1",
+    "eslint": "^2.9.0",
     "eslint-config-airbnb": "^9.0.1",
-    "eslint-plugin-import": "^1.12.0",
-    "eslint-plugin-jsx-a11y": "^2.0.1",
-    "eslint-plugin-react": "^5.2.2"
+    "eslint-plugin-import": "^1.7.0",
+    "eslint-plugin-jsx-a11y": "^1.2.0",
+    "eslint-plugin-react": "^5.0.1"
   },
   "babel": {
     "presets": [
       "es-2015-node",
       "stage-0"
     ]
+  },
+  "dependencies": {
+    "express": "^4.14.0"
   }
 }
